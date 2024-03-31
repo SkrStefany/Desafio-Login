@@ -70,7 +70,10 @@ button {
 button:hover {
   background-color: #008afb;
 }
+
+
 .final {
+  
   width: 100%;
   max-width: 560px;
   margin-bottom: 15px;
